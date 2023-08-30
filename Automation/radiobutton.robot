@@ -6,12 +6,10 @@ ${url}  https://www.tutorialspoint.com/selenium/selenium_automation_practice.htm
 ${Browser}  Chrome
 ${profession}   //button[@name='submit']
 
-
-
-
-
 *** Test Cases ***
 Launch the browser
+
+
 
 	Open Browser   ${url}    ${Browser}
 	Maximize Browser Window
@@ -21,6 +19,9 @@ Verify user able to select the gender
 	Select Radio Button    sex  Male
 
 Verify user able to select the year of experience
+
+
+	
 	Select Radio Button    exp  2
 
 
