@@ -1,0 +1,19 @@
+1692776189595	geckodriver	INFO	Listening on 127.0.0.1:52345
+1692776192427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52346" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SEEMAJ~1\\AppData\\Local\\Temp\\rust_mozprofileP466tb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692776203920	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1692776205058	Marionette	INFO	Listening on port 52363
+Read port: 52363
+WebDriver BiDi listening on ws://127.0.0.1:52346
+1692776209666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52346/devtools/browser/73509b42-f65e-43ce-ac40-06b7f548cfd4
+[Parent 4516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 10852, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1692776243815	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1692776243913	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-ux6i5uap_kgdJqLbszgrDc8lL0DO2SEHIjb65WwLNE.js line 2 > eval line 3830 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-ux6i5uap_kgdJqLbszgrDc8lL0DO2SEHIjb65WwLNE.js line 2 > eval line 3203 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-ux6i5uap_kgdJqLbszgrDc8lL0DO2SEHIjb65WwLNE.js line 2 > eval line 331 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-ux6i5uap_kgdJqLbszgrDc8lL0DO2SEHIjb65WwLNE.js line 2 > eval line 2488 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
