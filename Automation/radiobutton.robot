@@ -6,6 +6,10 @@ ${url}  https://www.tutorialspoint.com/selenium/selenium_automation_practice.htm
 ${Browser}  Chrome
 ${profession}   //button[@name='submit']
 
+
+
+
+
 *** Test Cases ***
 Launch the browser
 
